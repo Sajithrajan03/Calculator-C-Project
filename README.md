@@ -3,5 +3,5 @@
 ### title
 #### title
 ##### title
-** bold **
-* * italic * *
+**bold**
+*italic*
