@@ -3,8 +3,4 @@
 ## NOTE :   UNZIP USING WINRAR AND THEN USE. 
 
 **CALCULATOR**
-*italic*
-> quote this
--thsis
--is
--cool
+1st year C Project
